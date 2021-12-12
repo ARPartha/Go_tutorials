@@ -4,6 +4,7 @@ import "fmt"
 
 func updateName(x string){
 	x="Abdur Rahman"
+	fmt.Print(x)
 }
 
 func main(){
@@ -11,4 +12,5 @@ func main(){
 	name:="partha"
 
 	fmt.Println(name)
+
 }
