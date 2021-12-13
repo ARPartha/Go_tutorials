@@ -1,0 +1,5 @@
+Bill Breakdown: 
+Cake:                     ...$12 
+coke:                     ...$23 
+Tip:                      ...$12.0
+Total:                    ...$47.0
